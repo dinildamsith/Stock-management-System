@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class Main {
     static Scanner input = new Scanner(System.in);
-    static String login[][] = new String[1][2];   //{{"Saminda", "1234"}};
+    static String login[][] = new String[1][2]; 
     static String supplies[][] = new String[0][2];
     static String item[][] = new String[0][6];
 
